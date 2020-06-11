@@ -1,0 +1,7 @@
+{
+  "name": "galleryview",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
